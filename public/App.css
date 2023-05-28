@@ -1,0 +1,10 @@
+.content{
+    margin-top:30px ;
+    display: block;
+    position: relative;
+    text-align: center;
+    max-width: 100%;
+    width: 565px;
+    height: 780px;
+    left: 28%;
+}
